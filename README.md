@@ -1,1 +1,1 @@
-# This project involves developing an image classification model to identify various dog breeds from a dataset of images. The model is built using deep learning techniques, specifically leveraging Convolutional Neural Networks (CNNs).
+
